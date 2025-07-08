@@ -1,0 +1,1 @@
+This is a file. It is for the purpose of practicing File system module in NodeJS.
